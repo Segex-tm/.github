@@ -1,6 +1,26 @@
 ## Hi there 👋
 <img width="3020" height="1711" alt="logo_paper" src="https://github.com/user-attachments/assets/594218c5-fe4e-4ff2-bfc6-82eef3fa2a76" />
 
+Welcome to the GitHub of the Segex team, 
+a small team inspired by Sonic to make future fangames/games from this studio. 
+
+These are the team members.
+## Creator
+Dr1ft_eR_ραηιχ ⦐⦍
+## Artist
+Carfar ☕
+Elpalmeras7780
+●彡HENRYX彡●
+## Sprite Designer
+TripleR
+Gabrielicoptero
+☆ShadowGustYT☆
+## Programmer
+☆ShadowGustYT☆
+JustMe84!
+Lax The Cat/LaxyDev64
+
+
 <!--
 
 **Here are some ideas to get you started:**
