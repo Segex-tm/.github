@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Screenshot](logo_paper.png)
+<img width="3020" height="1711" alt="logo_paper" src="https://github.com/user-attachments/assets/594218c5-fe4e-4ff2-bfc6-82eef3fa2a76" />
+
 <!--
 
 **Here are some ideas to get you started:**
