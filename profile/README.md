@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Screenshot](logopaper.jpg)
+![Screenshot](logo_paper.png)
 <!--
 
 **Here are some ideas to get you started:**
