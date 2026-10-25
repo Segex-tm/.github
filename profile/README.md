@@ -19,6 +19,8 @@ Gabrielicoptero
 ☆ShadowGustYT☆
 JustMe84!
 Lax The Cat/LaxyDev64
+## Music/composers
+kero!
 
 
 <!--
